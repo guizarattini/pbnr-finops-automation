@@ -4,3 +4,4 @@ frontend-btg/node_modules/
 frontend-btg/dist/
 *.xlsx
 .env
+aws_s3_mirror/
