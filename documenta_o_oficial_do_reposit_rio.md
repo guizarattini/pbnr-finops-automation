@@ -1,5 +1,8 @@
 # FinOps & Entity Controlling Automation — PBNR
 
+<img width="1792" height="850" alt="image" src="https://github.com/user-attachments/assets/159baecd-411e-44e6-af72-bda655cdf6a8" />
+
+
 Plataforma Full Stack de **Automação Financeira, Conciliação Contábil e Auditoria com Inteligência Artificial**, desenvolvida para substituir controles financeiros manuais baseados em múltiplas abas de Excel por uma arquitetura escalável em **Python (Pandas + FastAPI)**, **PostgreSQL** e **React JS**.
 
 ---
