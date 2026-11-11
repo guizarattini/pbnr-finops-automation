@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+frontend-btg/node_modules/
+frontend-btg/dist/
+*.xlsx
+.env
